@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
- See [CV](https://stevereyes01.github.io/cv/) for links in the section "Publications in which I made a significant contribution"
+ See [CV](https://stevereyes01.github.io/cv/) for links in the section **"Publications in which I made a significant contribution"**
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
