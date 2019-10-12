@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume, Curriculum Vitae, and more"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [Steven Reyes' resume](https://stevereyes01.github.io/files/Steven_Reyes_Resume.pdf)
+
 [Steven Reyes' curriculum vitae](https://stevereyes01.github.io/files/Steven_Reyes_CV.pdf)
 
 Below we have a more descriptive and informal statement of what I have done
