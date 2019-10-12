@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+ You can find my publications at the link below
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
