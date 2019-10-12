@@ -10,8 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
- You can find my publications at the link below
-
+ See [CV](https://stevereyes01.github.io/cv/) for links in the section "Publications in which I made a significant contribution"
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
